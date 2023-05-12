@@ -1,0 +1,26 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+
+# Maven
+target/
+
+# JSF
+*.war
+*.ear
+*/target/
+*.log
+*.jar
+
+# Compiled classes
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
